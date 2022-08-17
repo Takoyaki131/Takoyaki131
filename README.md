@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Takoyaki131
+- 👋 Hi, I’m @Takoyaki131 (Auston Pawell)
 - 👀 I’m interested in programming and hopping to one day develop JRPG games like Pokemon
 - 🌱 I’m currently learning Object Oriented Programming, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on ...
