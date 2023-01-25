@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Takoyaki131 (Auston Pawell) a Computer Science student
-- 👀 I’m interested in programming and hoping to one day develop JRPG games like Pokemon
-- 🌱 I’m currently learning Object Oriented Programming, Algorithms and Data Structures
+- 👀 I’m interested in programming and hoping to one day develop JRPG games like the Pokemon or Yakuza franchise
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me auston.pawell@gmail.com
 
